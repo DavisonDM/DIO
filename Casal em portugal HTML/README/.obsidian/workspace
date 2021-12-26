@@ -1,0 +1,93 @@
+{
+  "main": {
+    "id": "7bcdac9fd9a6092f",
+    "type": "split",
+    "children": [
+      {
+        "id": "efeb1fa217134f73",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "README Casal em portugal.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "739620239de7fc55",
+    "type": "split",
+    "children": [
+      {
+        "id": "00b746dd179c1bae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0b2af4684c149cad",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "daba855f3eabb65b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c5062b45e7f55c42",
+    "type": "split",
+    "children": [
+      {
+        "id": "fbda56aca7eb7581",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7f1a2c9234046888",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README Casal em portugal.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "efeb1fa217134f73",
+  "lastOpenFiles": [
+    "README Casal em portugal.md"
+  ]
+}
